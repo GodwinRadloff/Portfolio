@@ -1,2 +1,2 @@
 # Portfolio
-This si a repository for my development portfolio
+This is a repository for my development portfolio
